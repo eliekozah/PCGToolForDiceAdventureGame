@@ -1,0 +1,2772 @@
+fileFormatVersion: 2
+guid: 82c1b621dba0d7647ac450117a459cbf
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4823625860190034640
+    second: Level5_Annotated_0
+  - first:
+      213: -3970908450478026837
+    second: Level5_Annotated_1
+  - first:
+      213: 674837868316535466
+    second: Level5_Annotated_2
+  - first:
+      213: -5136746561892147147
+    second: Level5_Annotated_3
+  - first:
+      213: -4684698995548472173
+    second: Level5_Annotated_4
+  - first:
+      213: 2984578574629294776
+    second: Level5_Annotated_5
+  - first:
+      213: 8699047795595077676
+    second: Level5_Annotated_6
+  - first:
+      213: 6702228318492619358
+    second: Level5_Annotated_7
+  - first:
+      213: -7035257570464772036
+    second: Level5_Annotated_8
+  - first:
+      213: 6242093010615080505
+    second: Level5_Annotated_9
+  - first:
+      213: -5862032662796364733
+    second: Level5_Annotated_10
+  - first:
+      213: 6623323494169957538
+    second: Level5_Annotated_11
+  - first:
+      213: -8552635447471550886
+    second: Level5_Annotated_12
+  - first:
+      213: -8546342924734982687
+    second: Level5_Annotated_13
+  - first:
+      213: 6642679784043142220
+    second: Level5_Annotated_14
+  - first:
+      213: 4944007433221908366
+    second: Level5_Annotated_15
+  - first:
+      213: 4182325566240035978
+    second: Level5_Annotated_16
+  - first:
+      213: -3747817868357382752
+    second: Level5_Annotated_17
+  - first:
+      213: 6332817122065646580
+    second: Level5_Annotated_18
+  - first:
+      213: -5148572937486376089
+    second: Level5_Annotated_19
+  - first:
+      213: 8717419749484614152
+    second: Level5_Annotated_20
+  - first:
+      213: 556845742551241435
+    second: Level5_Annotated_21
+  - first:
+      213: -8401503811772763508
+    second: Level5_Annotated_22
+  - first:
+      213: -355332633755442585
+    second: Level5_Annotated_23
+  - first:
+      213: -5407687007726602675
+    second: Level5_Annotated_24
+  - first:
+      213: 8595040685963348650
+    second: Level5_Annotated_25
+  - first:
+      213: 1179878817251275904
+    second: Level5_Annotated_26
+  - first:
+      213: -5894763502547983915
+    second: Level5_Annotated_27
+  - first:
+      213: -420953087945794531
+    second: Level5_Annotated_28
+  - first:
+      213: -8618153310809788209
+    second: Level5_Annotated_29
+  - first:
+      213: -8398635730215452701
+    second: Level5_Annotated_30
+  - first:
+      213: -5341556102621731481
+    second: Level5_Annotated_31
+  - first:
+      213: -4997256283626649578
+    second: Level5_Annotated_32
+  - first:
+      213: 4167275081338577543
+    second: Level5_Annotated_33
+  - first:
+      213: 391343616662004821
+    second: Level5_Annotated_34
+  - first:
+      213: -8496204031563223733
+    second: Level5_Annotated_35
+  - first:
+      213: -8229298797009443696
+    second: Level5_Annotated_36
+  - first:
+      213: -4749573250915142120
+    second: Level5_Annotated_37
+  - first:
+      213: 2936918797004946348
+    second: Level5_Annotated_38
+  - first:
+      213: 4748795719210643138
+    second: Level5_Annotated_39
+  - first:
+      213: 62000569710057788
+    second: Level5_Annotated_40
+  - first:
+      213: -5595686681671241307
+    second: Level5_Annotated_41
+  - first:
+      213: -7962447592743020944
+    second: Level5_Annotated_42
+  - first:
+      213: 5233335712521864111
+    second: Level5_Annotated_43
+  - first:
+      213: 3101591182646573200
+    second: Level5_Annotated_44
+  - first:
+      213: 1208208808111566543
+    second: Level5_Annotated_45
+  - first:
+      213: 699533191279550172
+    second: Level5_Annotated_46
+  - first:
+      213: -6252142844575988751
+    second: Level5_Annotated_47
+  - first:
+      213: -110998098816682407
+    second: Level5_Annotated_48
+  - first:
+      213: -8547910614473679029
+    second: Level5_Annotated_49
+  - first:
+      213: 1716402752212919353
+    second: Level5_Annotated_50
+  - first:
+      213: 2445793731452476539
+    second: Level5_Annotated_51
+  - first:
+      213: 7384921874784872407
+    second: Level5_Annotated_52
+  - first:
+      213: -5198838813579705996
+    second: Level5_Annotated_53
+  - first:
+      213: 7330732064441115701
+    second: Level5_Annotated_54
+  - first:
+      213: -1765801877434695038
+    second: Level5_Annotated_55
+  - first:
+      213: -2901984308492281960
+    second: Level5_Annotated_56
+  - first:
+      213: -7673436859351019969
+    second: Level5_Annotated_57
+  - first:
+      213: -731434528694987406
+    second: Level5_Annotated_58
+  - first:
+      213: 2422078549620330887
+    second: Level5_Annotated_59
+  - first:
+      213: -1132117180910348645
+    second: Level5_Annotated_60
+  - first:
+      213: 6377783277102151860
+    second: Level5_Annotated_61
+  - first:
+      213: 3045295217077694252
+    second: Level5_Annotated_62
+  - first:
+      213: 6766298533330313688
+    second: Level5_Annotated_63
+  - first:
+      213: 8260662637041476472
+    second: Level5_Annotated_64
+  - first:
+      213: 2882209334744259614
+    second: Level5_Annotated_65
+  - first:
+      213: 7778254839497964855
+    second: Level5_Annotated_66
+  - first:
+      213: 8365571357789905821
+    second: Level5_Annotated_67
+  - first:
+      213: -6513402732088037802
+    second: Level5_Annotated_68
+  - first:
+      213: -4289965495651467140
+    second: Level5_Annotated_69
+  - first:
+      213: 7606803348228964170
+    second: Level5_Annotated_70
+  - first:
+      213: 4035086084085970825
+    second: Level5_Annotated_71
+  - first:
+      213: -2118371247038198013
+    second: Level5_Annotated_72
+  - first:
+      213: -184345536804323711
+    second: Level5_Annotated_73
+  - first:
+      213: 513502160760466818
+    second: Level5_Annotated_74
+  - first:
+      213: -1248471944920800387
+    second: Level5_Annotated_75
+  - first:
+      213: 1122927274983510974
+    second: Level5_Annotated_76
+  - first:
+      213: 8611549588361215178
+    second: Level5_Annotated_77
+  - first:
+      213: 6266923088109704116
+    second: Level5_Annotated_78
+  - first:
+      213: -1653511967804445166
+    second: Level5_Annotated_79
+  - first:
+      213: -2083291208640132912
+    second: Level5_Annotated_80
+  - first:
+      213: -4602038466880005215
+    second: Level5_Annotated_81
+  - first:
+      213: -2918220083355470103
+    second: Level5_Annotated_82
+  - first:
+      213: -3228831236329101889
+    second: Level5_Annotated_83
+  - first:
+      213: 6990132029521421729
+    second: Level5_Annotated_84
+  - first:
+      213: 3343411415617757737
+    second: Level5_Annotated_85
+  - first:
+      213: 7593562635361066260
+    second: Level5_Annotated_86
+  - first:
+      213: -7371284756518285632
+    second: Level5_Annotated_87
+  - first:
+      213: -499610820533848145
+    second: Level5_Annotated_88
+  - first:
+      213: -8466981144669747579
+    second: Level5_Annotated_89
+  - first:
+      213: 450822510873679196
+    second: Level5_Annotated_90
+  - first:
+      213: -7678472834477424184
+    second: Level5_Annotated_91
+  - first:
+      213: 2016513901074102909
+    second: Level5_Annotated_92
+  - first:
+      213: 1078497707424008115
+    second: Level5_Annotated_93
+  - first:
+      213: 1184428944497409307
+    second: Level5_Annotated_94
+  - first:
+      213: -8730780157621841094
+    second: Level5_Annotated_95
+  - first:
+      213: 7587557189785104068
+    second: Level5_Annotated_96
+  - first:
+      213: -6857118526930081969
+    second: Level5_Annotated_97
+  - first:
+      213: 6750703445977307915
+    second: Level5_Annotated_98
+  - first:
+      213: 334601881003118886
+    second: Level5_Annotated_99
+  - first:
+      213: -3652227542219361045
+    second: Level5_Annotated_100
+  - first:
+      213: -1160140740064020834
+    second: Level5_Annotated_101
+  - first:
+      213: 8508760960635325899
+    second: Level5_Annotated_102
+  - first:
+      213: 2859121893405831523
+    second: Level5_Annotated_103
+  - first:
+      213: 5370893884249093044
+    second: Level5_Annotated_104
+  - first:
+      213: -3517394363296808471
+    second: Level5_Annotated_105
+  - first:
+      213: -7056142686287447076
+    second: Level5_Annotated_106
+  - first:
+      213: 7472190754144394248
+    second: Level5_Annotated_107
+  - first:
+      213: -333799622512283592
+    second: Level5_Annotated_108
+  - first:
+      213: 6990887456312584296
+    second: Level5_Annotated_109
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 175
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Level5_Annotated_0
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 1773
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0dad306c926f0f240800000000000000
+      internalID: 4823625860190034640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level5_Annotated_1
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 1773
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: baf09a59dcf74e8c0800000000000000
+      internalID: -3970908450478026837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level5_Annotated_2
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 1773
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aaa2dfd37718d5900800000000000000
+      internalID: 674837868316535466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level5_Annotated_3
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 1773
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 530a535b73c96b8b0800000000000000
+      internalID: -5136746561892147147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level5_Annotated_4
+      rect:
+        serializedVersion: 2
+        x: 850
+        y: 1773
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39c34ba851b9cfeb0800000000000000
+      internalID: -4684698995548472173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level5_Annotated_5
+      rect:
+        serializedVersion: 2
+        x: 1025
+        y: 1773
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b25501966a5b6920800000000000000
+      internalID: 2984578574629294776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level5_Annotated_6
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 1773
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c28e69c61e939b870800000000000000
+      internalID: 8699047795595077676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level5_Annotated_7
+      rect:
+        serializedVersion: 2
+        x: 1375
+        y: 1773
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e52f05f4529130d50800000000000000
+      internalID: 6702228318492619358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level5_Annotated_8
+      rect:
+        serializedVersion: 2
+        x: 1550
+        y: 1773
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c30d119938ebd5e90800000000000000
+      internalID: -7035257570464772036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level5_Annotated_9
+      rect:
+        serializedVersion: 2
+        x: 1725
+        y: 1773
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93619a8658e50a650800000000000000
+      internalID: 6242093010615080505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level5_Annotated_10
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 1598
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34419400a50e5aea0800000000000000
+      internalID: -5862032662796364733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level5_Annotated_11
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 1598
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a4df7640a5caeb50800000000000000
+      internalID: 6623323494169957538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level5_Annotated_12
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 1598
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5e4b04df5fee4980800000000000000
+      internalID: -8552635447471550886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level5_Annotated_13
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 1598
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e59f72f36a456980800000000000000
+      internalID: -8546342924734982687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level5_Annotated_14
+      rect:
+        serializedVersion: 2
+        x: 850
+        y: 1598
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4c5f84b11a8f2c50800000000000000
+      internalID: 6642679784043142220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level5_Annotated_15
+      rect:
+        serializedVersion: 2
+        x: 1025
+        y: 1598
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e872518e094ac9440800000000000000
+      internalID: 4944007433221908366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level5_Annotated_16
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 1598
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8495ce81fa9a0a30800000000000000
+      internalID: 4182325566240035978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level5_Annotated_17
+      rect:
+        serializedVersion: 2
+        x: 1375
+        y: 1598
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ad42b961831dfbc0800000000000000
+      internalID: -3747817868357382752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level5_Annotated_18
+      rect:
+        serializedVersion: 2
+        x: 1550
+        y: 1598
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f30c3cae9fa2e750800000000000000
+      internalID: 6332817122065646580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level5_Annotated_19
+      rect:
+        serializedVersion: 2
+        x: 1725
+        y: 1598
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7636fe011389c88b0800000000000000
+      internalID: -5148572937486376089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level5_Annotated_20
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 1423
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8025106431f7af870800000000000000
+      internalID: 8717419749484614152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level5_Annotated_21
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 1423
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd29477a0405ab700800000000000000
+      internalID: 556845742551241435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level5_Annotated_22
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 1423
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c82b138dbccd76b80800000000000000
+      internalID: -8401503811772763508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level5_Annotated_23
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 1423
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76227eb2ada911bf0800000000000000
+      internalID: -355332633755442585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level5_Annotated_24
+      rect:
+        serializedVersion: 2
+        x: 850
+        y: 1423
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d46f5ff415904f4b0800000000000000
+      internalID: -5407687007726602675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level5_Annotated_25
+      rect:
+        serializedVersion: 2
+        x: 1025
+        y: 1423
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aaa00e427f7b74770800000000000000
+      internalID: 8595040685963348650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level5_Annotated_26
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 1423
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08435447885cf5010800000000000000
+      internalID: 1179878817251275904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level5_Annotated_27
+      rect:
+        serializedVersion: 2
+        x: 1375
+        y: 1423
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d1a0b383d7913ea0800000000000000
+      internalID: -5894763502547983915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level5_Annotated_28
+      rect:
+        serializedVersion: 2
+        x: 1550
+        y: 1423
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1c13e59569782af0800000000000000
+      internalID: -420953087945794531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level5_Annotated_29
+      rect:
+        serializedVersion: 2
+        x: 1725
+        y: 1423
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc07359893b266880800000000000000
+      internalID: -8618153310809788209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level5_Annotated_30
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 1248
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3efba9e1d4d027b80800000000000000
+      internalID: -8398635730215452701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level5_Annotated_31
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 1248
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7656963860bfed5b0800000000000000
+      internalID: -5341556102621731481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level5_Annotated_32
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 1248
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61848daf2ed26aab0800000000000000
+      internalID: -4997256283626649578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level5_Annotated_33
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 1248
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 782e5887b9225d930800000000000000
+      internalID: 4167275081338577543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level5_Annotated_34
+      rect:
+        serializedVersion: 2
+        x: 850
+        y: 1248
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 554614822f45e6500800000000000000
+      internalID: 391343616662004821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level5_Annotated_35
+      rect:
+        serializedVersion: 2
+        x: 1025
+        y: 1248
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4dae67b27b671a80800000000000000
+      internalID: -8496204031563223733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level5_Annotated_36
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 1248
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 094e3b54858abcd80800000000000000
+      internalID: -8229298797009443696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level5_Annotated_37
+      rect:
+        serializedVersion: 2
+        x: 1375
+        y: 1248
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8167188ea40261eb0800000000000000
+      internalID: -4749573250915142120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level5_Annotated_38
+      rect:
+        serializedVersion: 2
+        x: 1550
+        y: 1248
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cabb5add51802c820800000000000000
+      internalID: 2936918797004946348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level5_Annotated_39
+      rect:
+        serializedVersion: 2
+        x: 1725
+        y: 1248
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ce2272eb8c17e140800000000000000
+      internalID: 4748795719210643138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level5_Annotated_40
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 1073
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c39907d80354cd000800000000000000
+      internalID: 62000569710057788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level5_Annotated_41
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 1073
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a1f9983c902852b0800000000000000
+      internalID: -5595686681671241307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level5_Annotated_42
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 1073
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07653ebe914bf7190800000000000000
+      internalID: -7962447592743020944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level5_Annotated_43
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 1073
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa34b376a1b80a840800000000000000
+      internalID: 5233335712521864111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level5_Annotated_44
+      rect:
+        serializedVersion: 2
+        x: 850
+        y: 1073
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 098f1286fb01b0b20800000000000000
+      internalID: 3101591182646573200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level5_Annotated_45
+      rect:
+        serializedVersion: 2
+        x: 1025
+        y: 1073
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fceecf5728b64c010800000000000000
+      internalID: 1208208808111566543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level5_Annotated_46
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 1073
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cde10de2bbd35b900800000000000000
+      internalID: 699533191279550172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level5_Annotated_47
+      rect:
+        serializedVersion: 2
+        x: 1375
+        y: 1073
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f34c08453deb39a0800000000000000
+      internalID: -6252142844575988751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level5_Annotated_48
+      rect:
+        serializedVersion: 2
+        x: 1550
+        y: 1073
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 956b94531d7a57ef0800000000000000
+      internalID: -110998098816682407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level5_Annotated_49
+      rect:
+        serializedVersion: 2
+        x: 1725
+        y: 1073
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4f518cb598bf5980800000000000000
+      internalID: -8547910614473679029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level5_Annotated_50
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 898
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93467219533e1d710800000000000000
+      internalID: 1716402752212919353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level5_Annotated_51
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 898
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7c1a1db07431f120800000000000000
+      internalID: 2445793731452476539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level5_Annotated_52
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 898
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d7609071538c7660800000000000000
+      internalID: 7384921874784872407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level5_Annotated_53
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 898
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4718118c4a30ad7b0800000000000000
+      internalID: -5198838813579705996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level5_Annotated_54
+      rect:
+        serializedVersion: 2
+        x: 850
+        y: 898
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 534249409fdfbb560800000000000000
+      internalID: 7330732064441115701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level5_Annotated_55
+      rect:
+        serializedVersion: 2
+        x: 1025
+        y: 898
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28289cf4c8c9e77e0800000000000000
+      internalID: -1765801877434695038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level5_Annotated_56
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 898
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8975f8495a41ab7d0800000000000000
+      internalID: -2901984308492281960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level5_Annotated_57
+      rect:
+        serializedVersion: 2
+        x: 1375
+        y: 898
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3e4efff4d9728590800000000000000
+      internalID: -7673436859351019969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level5_Annotated_58
+      rect:
+        serializedVersion: 2
+        x: 1550
+        y: 898
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2751ea4eb2c69d5f0800000000000000
+      internalID: -731434528694987406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level5_Annotated_59
+      rect:
+        serializedVersion: 2
+        x: 1725
+        y: 898
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7819630bb93fc9120800000000000000
+      internalID: 2422078549620330887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level5_Annotated_60
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 723
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b96d8b31c69e940f0800000000000000
+      internalID: -1132117180910348645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level5_Annotated_61
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 723
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b8b91e7910728850800000000000000
+      internalID: 6377783277102151860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level5_Annotated_62
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 723
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2fac128ddf034a20800000000000000
+      internalID: 3045295217077694252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level5_Annotated_63
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 723
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d1666baaa8b6ed50800000000000000
+      internalID: 6766298533330313688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level5_Annotated_64
+      rect:
+        serializedVersion: 2
+        x: 850
+        y: 723
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 873e23ac6e4c3a270800000000000000
+      internalID: 8260662637041476472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level5_Annotated_65
+      rect:
+        serializedVersion: 2
+        x: 1025
+        y: 723
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1c1fbd8e1aaff720800000000000000
+      internalID: 2882209334744259614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level5_Annotated_66
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 723
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73d3db8c099e1fb60800000000000000
+      internalID: 7778254839497964855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level5_Annotated_67
+      rect:
+        serializedVersion: 2
+        x: 1375
+        y: 723
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d93ef34c3da781470800000000000000
+      internalID: 8365571357789905821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level5_Annotated_68
+      rect:
+        serializedVersion: 2
+        x: 1550
+        y: 723
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65e65d289bebb95a0800000000000000
+      internalID: -6513402732088037802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level5_Annotated_69
+      rect:
+        serializedVersion: 2
+        x: 1725
+        y: 723
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7003056c1bf674c0800000000000000
+      internalID: -4289965495651467140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level5_Annotated_70
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 548
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4f7077b75bc09960800000000000000
+      internalID: 7606803348228964170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level5_Annotated_71
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 548
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 987f0182a618ff730800000000000000
+      internalID: 4035086084085970825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level5_Annotated_72
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 548
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30f03ed03980a92e0800000000000000
+      internalID: -2118371247038198013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level5_Annotated_73
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 548
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18e79d206b2117df0800000000000000
+      internalID: -184345536804323711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level5_Annotated_74
+      rect:
+        serializedVersion: 2
+        x: 850
+        y: 548
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28de58b9e73502700800000000000000
+      internalID: 513502160760466818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level5_Annotated_75
+      rect:
+        serializedVersion: 2
+        x: 1025
+        y: 548
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7364fa71698caee0800000000000000
+      internalID: -1248471944920800387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level5_Annotated_76
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 548
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb35df53860759f00800000000000000
+      internalID: 1122927274983510974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level5_Annotated_77
+      rect:
+        serializedVersion: 2
+        x: 1375
+        y: 548
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acc7ee389be528770800000000000000
+      internalID: 8611549588361215178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level5_Annotated_78
+      rect:
+        serializedVersion: 2
+        x: 1550
+        y: 548
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b31975585598f650800000000000000
+      internalID: 6266923088109704116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level5_Annotated_79
+      rect:
+        serializedVersion: 2
+        x: 1725
+        y: 548
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21ea82f30ab8d09e0800000000000000
+      internalID: -1653511967804445166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level5_Annotated_80
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 373
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d88f49fea9a613e0800000000000000
+      internalID: -2083291208640132912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level5_Annotated_81
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 373
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ab1fe2a5664220c0800000000000000
+      internalID: -4602038466880005215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level5_Annotated_82
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 373
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e6bf2bab466087d0800000000000000
+      internalID: -2918220083355470103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level5_Annotated_83
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 373
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb52beef813e033d0800000000000000
+      internalID: -3228831236329101889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level5_Annotated_84
+      rect:
+        serializedVersion: 2
+        x: 850
+        y: 373
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a564b8ab00f10160800000000000000
+      internalID: 6990132029521421729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level5_Annotated_85
+      rect:
+        serializedVersion: 2
+        x: 1025
+        y: 373
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 922e1e5e7fe266e20800000000000000
+      internalID: 3343411415617757737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level5_Annotated_86
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 373
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41d10640cf0c16960800000000000000
+      internalID: 7593562635361066260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level5_Annotated_87
+      rect:
+        serializedVersion: 2
+        x: 1375
+        y: 373
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cec975919fe3b990800000000000000
+      internalID: -7371284756518285632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level5_Annotated_88
+      rect:
+        serializedVersion: 2
+        x: 1550
+        y: 373
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa773241b960119f0800000000000000
+      internalID: -499610820533848145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level5_Annotated_89
+      rect:
+        serializedVersion: 2
+        x: 1725
+        y: 373
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5868708428d3f7a80800000000000000
+      internalID: -8466981144669747579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level5_Annotated_90
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 198
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5510616fa4a14600800000000000000
+      internalID: 450822510873679196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level5_Annotated_91
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 198
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c18c7ba3a5907590800000000000000
+      internalID: -7678472834477424184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level5_Annotated_92
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 198
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7ab82685b81cfb10800000000000000
+      internalID: 2016513901074102909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level5_Annotated_93
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 198
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b7c41663f797fe00800000000000000
+      internalID: 1078497707424008115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level5_Annotated_94
+      rect:
+        serializedVersion: 2
+        x: 850
+        y: 198
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1d757289dfef6010800000000000000
+      internalID: 1184428944497409307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level5_Annotated_95
+      rect:
+        serializedVersion: 2
+        x: 1025
+        y: 198
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a33dbec44b906d680800000000000000
+      internalID: -8730780157621841094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level5_Annotated_96
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 198
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ce2a12401b6c4960800000000000000
+      internalID: 7587557189785104068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level5_Annotated_97
+      rect:
+        serializedVersion: 2
+        x: 1375
+        y: 198
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f472593c70f96d0a0800000000000000
+      internalID: -6857118526930081969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level5_Annotated_98
+      rect:
+        serializedVersion: 2
+        x: 1550
+        y: 198
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0b9b7174015fad50800000000000000
+      internalID: 6750703445977307915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level5_Annotated_99
+      rect:
+        serializedVersion: 2
+        x: 1725
+        y: 198
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6215e5253aeb4a400800000000000000
+      internalID: 334601881003118886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level5_Annotated_100
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 23
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be4fd13966ea05dc0800000000000000
+      internalID: -3652227542219361045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level5_Annotated_101
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 23
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e967603c42a56efe0800000000000000
+      internalID: -1160140740064020834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level5_Annotated_102
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 23
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcd41692301351670800000000000000
+      internalID: 8508760960635325899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level5_Annotated_103
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 23
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3613ff9b634ada720800000000000000
+      internalID: 2859121893405831523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level5_Annotated_104
+      rect:
+        serializedVersion: 2
+        x: 850
+        y: 23
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b33cf0188f398a40800000000000000
+      internalID: 5370893884249093044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level5_Annotated_105
+      rect:
+        serializedVersion: 2
+        x: 1025
+        y: 23
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e18bb86674bf2fc0800000000000000
+      internalID: -3517394363296808471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level5_Annotated_106
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 23
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdbbd53ac9b831e90800000000000000
+      internalID: -7056142686287447076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level5_Annotated_107
+      rect:
+        serializedVersion: 2
+        x: 1375
+        y: 23
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80c1cbac6ed82b760800000000000000
+      internalID: 7472190754144394248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level5_Annotated_108
+      rect:
+        serializedVersion: 2
+        x: 1550
+        y: 23
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 830fef9030b1e5bf0800000000000000
+      internalID: -333799622512283592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level5_Annotated_109
+      rect:
+        serializedVersion: 2
+        x: 1725
+        y: 23
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 868ee3a2a1f940160800000000000000
+      internalID: 6990887456312584296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

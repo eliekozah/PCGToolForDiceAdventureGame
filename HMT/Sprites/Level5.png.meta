@@ -1,0 +1,2772 @@
+fileFormatVersion: 2
+guid: e1879118cf8ab9f419f28631d3bc952c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2317120131527797967
+    second: Level5_0
+  - first:
+      213: -8826192270953588273
+    second: Level5_1
+  - first:
+      213: -1640153847772350983
+    second: Level5_2
+  - first:
+      213: -1105743224434469556
+    second: Level5_3
+  - first:
+      213: -8305507081313903354
+    second: Level5_4
+  - first:
+      213: 4031439150103054955
+    second: Level5_5
+  - first:
+      213: -294149707814949770
+    second: Level5_6
+  - first:
+      213: -3480962014433882142
+    second: Level5_7
+  - first:
+      213: -870001818470572436
+    second: Level5_8
+  - first:
+      213: 4934820858284234113
+    second: Level5_9
+  - first:
+      213: -3144254691034659863
+    second: Level5_10
+  - first:
+      213: -1475741166860908813
+    second: Level5_11
+  - first:
+      213: -5711145556070517898
+    second: Level5_12
+  - first:
+      213: 2810120761225830149
+    second: Level5_13
+  - first:
+      213: 5624401440944220369
+    second: Level5_14
+  - first:
+      213: -3342294519551182086
+    second: Level5_15
+  - first:
+      213: 8734638406094565283
+    second: Level5_16
+  - first:
+      213: 2979901328429226206
+    second: Level5_17
+  - first:
+      213: -3992259536083346913
+    second: Level5_18
+  - first:
+      213: -8069263226392850558
+    second: Level5_19
+  - first:
+      213: -5232143135747948232
+    second: Level5_20
+  - first:
+      213: 7079553228385761825
+    second: Level5_21
+  - first:
+      213: 1567349574974986532
+    second: Level5_22
+  - first:
+      213: -6516532470490111840
+    second: Level5_23
+  - first:
+      213: -3991133603980319715
+    second: Level5_24
+  - first:
+      213: 1804991110234823623
+    second: Level5_25
+  - first:
+      213: -7232407505289631403
+    second: Level5_26
+  - first:
+      213: 3976520692971038929
+    second: Level5_27
+  - first:
+      213: 1897318858770068780
+    second: Level5_28
+  - first:
+      213: -930705330405845208
+    second: Level5_29
+  - first:
+      213: -5983102083284684364
+    second: Level5_30
+  - first:
+      213: 1509348150381784392
+    second: Level5_31
+  - first:
+      213: 5713076884157937921
+    second: Level5_32
+  - first:
+      213: -6409418922762827961
+    second: Level5_33
+  - first:
+      213: 5442104293894771531
+    second: Level5_34
+  - first:
+      213: -4760157619501571227
+    second: Level5_35
+  - first:
+      213: -2251865469447971154
+    second: Level5_36
+  - first:
+      213: -4018629994530731998
+    second: Level5_37
+  - first:
+      213: -5136914505805423606
+    second: Level5_38
+  - first:
+      213: -402101954915198828
+    second: Level5_39
+  - first:
+      213: 203724146763648474
+    second: Level5_40
+  - first:
+      213: -6322527681347245330
+    second: Level5_41
+  - first:
+      213: 7403032076303247797
+    second: Level5_42
+  - first:
+      213: -6466800905552693469
+    second: Level5_43
+  - first:
+      213: -2312679157729368932
+    second: Level5_44
+  - first:
+      213: -6143103360508505395
+    second: Level5_45
+  - first:
+      213: 7502402920651546883
+    second: Level5_46
+  - first:
+      213: 3620710906909898763
+    second: Level5_47
+  - first:
+      213: 1319631395911140701
+    second: Level5_48
+  - first:
+      213: -4391365686052813914
+    second: Level5_49
+  - first:
+      213: -7274821221743950163
+    second: Level5_50
+  - first:
+      213: -1618181925219809470
+    second: Level5_51
+  - first:
+      213: 82968749372479433
+    second: Level5_52
+  - first:
+      213: 3103364202597308586
+    second: Level5_53
+  - first:
+      213: -7978755476294823931
+    second: Level5_54
+  - first:
+      213: -2953398477634389506
+    second: Level5_55
+  - first:
+      213: -8619510767853722003
+    second: Level5_56
+  - first:
+      213: 5749782182005010823
+    second: Level5_57
+  - first:
+      213: -6556838661857745103
+    second: Level5_58
+  - first:
+      213: 5638160011467095549
+    second: Level5_59
+  - first:
+      213: -7291670177405467773
+    second: Level5_60
+  - first:
+      213: -1175114788173925596
+    second: Level5_61
+  - first:
+      213: 7980952021035700468
+    second: Level5_62
+  - first:
+      213: -3065903053754924572
+    second: Level5_63
+  - first:
+      213: -93653804404962161
+    second: Level5_64
+  - first:
+      213: 5893083754363905372
+    second: Level5_65
+  - first:
+      213: -9114191915016350857
+    second: Level5_66
+  - first:
+      213: 8642050665795969254
+    second: Level5_67
+  - first:
+      213: -4145067893686552777
+    second: Level5_68
+  - first:
+      213: 5806182142596932942
+    second: Level5_69
+  - first:
+      213: -1307211776555006264
+    second: Level5_70
+  - first:
+      213: 5918412316533566922
+    second: Level5_71
+  - first:
+      213: -2685072420121923920
+    second: Level5_72
+  - first:
+      213: -6795370659436782962
+    second: Level5_73
+  - first:
+      213: -3913560568906194211
+    second: Level5_74
+  - first:
+      213: -3741971700983183082
+    second: Level5_75
+  - first:
+      213: 902858751330610606
+    second: Level5_76
+  - first:
+      213: -4702888819116069209
+    second: Level5_77
+  - first:
+      213: -8137599756953880901
+    second: Level5_78
+  - first:
+      213: -4917605413141590472
+    second: Level5_79
+  - first:
+      213: 6125540136364799952
+    second: Level5_80
+  - first:
+      213: 7407048392520315436
+    second: Level5_81
+  - first:
+      213: 6729231759739876189
+    second: Level5_82
+  - first:
+      213: 2489559903550317593
+    second: Level5_83
+  - first:
+      213: -4233767469312467500
+    second: Level5_84
+  - first:
+      213: 4131953106959556240
+    second: Level5_85
+  - first:
+      213: -4657111212349474187
+    second: Level5_86
+  - first:
+      213: -4298327358537647484
+    second: Level5_87
+  - first:
+      213: 8579881767239423535
+    second: Level5_88
+  - first:
+      213: 6894658687562748393
+    second: Level5_89
+  - first:
+      213: 7395549351321179009
+    second: Level5_90
+  - first:
+      213: 8368515904007815033
+    second: Level5_91
+  - first:
+      213: 4562278719247458185
+    second: Level5_92
+  - first:
+      213: 2959001642278522071
+    second: Level5_93
+  - first:
+      213: 6239448677921373112
+    second: Level5_94
+  - first:
+      213: -3074798932287506577
+    second: Level5_95
+  - first:
+      213: 4974615380137601313
+    second: Level5_96
+  - first:
+      213: -5599719199835306741
+    second: Level5_97
+  - first:
+      213: -4864719346472374957
+    second: Level5_98
+  - first:
+      213: 209051060284565133
+    second: Level5_99
+  - first:
+      213: 5707975126422265426
+    second: Level5_100
+  - first:
+      213: -6694343887644244534
+    second: Level5_101
+  - first:
+      213: 1956044834972979603
+    second: Level5_102
+  - first:
+      213: -7636623274683380236
+    second: Level5_103
+  - first:
+      213: -5093603907434071784
+    second: Level5_104
+  - first:
+      213: -2797502273668977056
+    second: Level5_105
+  - first:
+      213: -4990292508754934045
+    second: Level5_106
+  - first:
+      213: 5549953919058279603
+    second: Level5_107
+  - first:
+      213: 4427047762700508202
+    second: Level5_108
+  - first:
+      213: 6033689250112841278
+    second: Level5_109
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 175
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Level5_0
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 1773
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fccee95ab70182020800000000000000
+      internalID: 2317120131527797967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level5_1
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 1773
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc9538a84e0138580800000000000000
+      internalID: -8826192270953588273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level5_2
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 1773
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f5f98ee3c00d39e0800000000000000
+      internalID: -1640153847772350983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level5_3
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 1773
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c45d9c6556c97a0f0800000000000000
+      internalID: -1105743224434469556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level5_4
+      rect:
+        serializedVersion: 2
+        x: 849
+        y: 1773
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60d1bc26059ecbc80800000000000000
+      internalID: -8305507081313903354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level5_5
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 1773
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6ace7b2c8c82f730800000000000000
+      internalID: 4031439150103054955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level5_6
+      rect:
+        serializedVersion: 2
+        x: 1199
+        y: 1773
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67ca7e23668faebf0800000000000000
+      internalID: -294149707814949770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level5_7
+      rect:
+        serializedVersion: 2
+        x: 1374
+        y: 1773
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ef4a05ad7321bfc0800000000000000
+      internalID: -3480962014433882142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level5_8
+      rect:
+        serializedVersion: 2
+        x: 1549
+        y: 1773
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6e1e10a4f12de3f0800000000000000
+      internalID: -870001818470572436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level5_9
+      rect:
+        serializedVersion: 2
+        x: 1724
+        y: 1773
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1855830cc610c7440800000000000000
+      internalID: 4934820858284234113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level5_10
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 1598
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e30689740d5d54d0800000000000000
+      internalID: -3144254691034659863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level5_11
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 1598
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f6c5d04a3d158be0800000000000000
+      internalID: -1475741166860908813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level5_12
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 1598
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 673bddd206fedb0b0800000000000000
+      internalID: -5711145556070517898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level5_13
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 1598
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50fd0d491fd8ff620800000000000000
+      internalID: 2810120761225830149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level5_14
+      rect:
+        serializedVersion: 2
+        x: 849
+        y: 1598
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d8eca9af43ed0e40800000000000000
+      internalID: 5624401440944220369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level5_15
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 1598
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afaba6bb7d8cd91d0800000000000000
+      internalID: -3342294519551182086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level5_16
+      rect:
+        serializedVersion: 2
+        x: 1199
+        y: 1598
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3af20cc2a5ba73970800000000000000
+      internalID: 8734638406094565283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level5_17
+      rect:
+        serializedVersion: 2
+        x: 1374
+        y: 1598
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed81db2587cba5920800000000000000
+      internalID: 2979901328429226206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level5_18
+      rect:
+        serializedVersion: 2
+        x: 1549
+        y: 1598
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1a16949a15a898c0800000000000000
+      internalID: -3992259536083346913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level5_19
+      rect:
+        serializedVersion: 2
+        x: 1724
+        y: 1598
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28f4bbf29d7340090800000000000000
+      internalID: -8069263226392850558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level5_20
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 1423
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 831ceb30a81b367b0800000000000000
+      internalID: -5232143135747948232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level5_21
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 1423
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12a3762f620af3260800000000000000
+      internalID: 7079553228385761825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level5_22
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 1423
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4295e3f522850c510800000000000000
+      internalID: 1567349574974986532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level5_23
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 1423
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a063218e30a095a0800000000000000
+      internalID: -6516532470490111840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level5_24
+      rect:
+        serializedVersion: 2
+        x: 849
+        y: 1423
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d14e0a31225ac98c0800000000000000
+      internalID: -3991133603980319715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level5_25
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 1423
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cbd84cf9dd9c0910800000000000000
+      internalID: 1804991110234823623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level5_26
+      rect:
+        serializedVersion: 2
+        x: 1199
+        y: 1423
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 559a75061b351ab90800000000000000
+      internalID: -7232407505289631403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level5_27
+      rect:
+        serializedVersion: 2
+        x: 1374
+        y: 1423
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d8678270807f2730800000000000000
+      internalID: 3976520692971038929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level5_28
+      rect:
+        serializedVersion: 2
+        x: 1549
+        y: 1423
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c25b3aa1371a45a10800000000000000
+      internalID: 1897318858770068780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level5_29
+      rect:
+        serializedVersion: 2
+        x: 1724
+        y: 1423
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 827d89ede687513f0800000000000000
+      internalID: -930705330405845208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level5_30
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 1248
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b1bae6ea50c7fca0800000000000000
+      internalID: -5983102083284684364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level5_31
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 1248
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84d26e9552842f410800000000000000
+      internalID: 1509348150381784392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level5_32
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 1248
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 109babe282de84f40800000000000000
+      internalID: 5713076884157937921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level5_33
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 1248
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7470e04c27b2d07a0800000000000000
+      internalID: -6409418922762827961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level5_34
+      rect:
+        serializedVersion: 2
+        x: 849
+        y: 1248
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b43d934950d368b40800000000000000
+      internalID: 5442104293894771531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level5_35
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 1248
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5636dbe8dd580fdb0800000000000000
+      internalID: -4760157619501571227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level5_36
+      rect:
+        serializedVersion: 2
+        x: 1199
+        y: 1248
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eaed5935944cfb0e0800000000000000
+      internalID: -2251865469447971154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level5_37
+      rect:
+        serializedVersion: 2
+        x: 1374
+        y: 1248
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2280444cf45fa38c0800000000000000
+      internalID: -4018629994530731998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level5_38
+      rect:
+        serializedVersion: 2
+        x: 1549
+        y: 1248
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0c9ae7397306b8b0800000000000000
+      internalID: -5136914505805423606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level5_39
+      rect:
+        serializedVersion: 2
+        x: 1724
+        y: 1248
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4981ac507627b6af0800000000000000
+      internalID: -402101954915198828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level5_40
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 1073
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: add44083806c3d200800000000000000
+      internalID: 203724146763648474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level5_41
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 1073
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eea29be629ed148a0800000000000000
+      internalID: -6322527681347245330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level5_42
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 1073
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b9a0e0537adcb660800000000000000
+      internalID: 7403032076303247797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level5_43
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 1073
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3277b57c6de4146a0800000000000000
+      internalID: -6466800905552693469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level5_44
+      rect:
+        serializedVersion: 2
+        x: 849
+        y: 1073
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9467142f86b7efd0800000000000000
+      internalID: -2312679157729368932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level5_45
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 1073
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc2d16a8a005fbaa0800000000000000
+      internalID: -6143103360508505395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level5_46
+      rect:
+        serializedVersion: 2
+        x: 1199
+        y: 1073
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 301e947f4b3ed1860800000000000000
+      internalID: 7502402920651546883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level5_47
+      rect:
+        serializedVersion: 2
+        x: 1374
+        y: 1073
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b083fb0f2695f3230800000000000000
+      internalID: 3620710906909898763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level5_48
+      rect:
+        serializedVersion: 2
+        x: 1549
+        y: 1073
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d558cbb43c5405210800000000000000
+      internalID: 1319631395911140701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level5_49
+      rect:
+        serializedVersion: 2
+        x: 1724
+        y: 1073
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a38bfbcc2cbe03c0800000000000000
+      internalID: -4391365686052813914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level5_50
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 898
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da68a7974a4aa0b90800000000000000
+      internalID: -7274821221743950163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level5_51
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 898
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 247c05dcc101b89e0800000000000000
+      internalID: -1618181925219809470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level5_52
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 898
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c71ec153a3c62100800000000000000
+      internalID: 82968749372479433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level5_53
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 898
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa8d978cc4d511b20800000000000000
+      internalID: 3103364202597308586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level5_54
+      rect:
+        serializedVersion: 2
+        x: 849
+        y: 898
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5009eb5ea24c54190800000000000000
+      internalID: -7978755476294823931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level5_55
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 898
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef93c6c7bbb6307d0800000000000000
+      internalID: -2953398477634389506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level5_56
+      rect:
+        serializedVersion: 2
+        x: 1199
+        y: 898
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d66ac60ff98516880800000000000000
+      internalID: -8619510767853722003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level5_57
+      rect:
+        serializedVersion: 2
+        x: 1374
+        y: 898
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 781774e4e645bcf40800000000000000
+      internalID: 5749782182005010823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level5_58
+      rect:
+        serializedVersion: 2
+        x: 1549
+        y: 898
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 137eb660afd6105a0800000000000000
+      internalID: -6556838661857745103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level5_59
+      rect:
+        serializedVersion: 2
+        x: 1724
+        y: 898
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfdfe4e78a4ce3e40800000000000000
+      internalID: 5638160011467095549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level5_60
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 723
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38300784b98ceca90800000000000000
+      internalID: -7291670177405467773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level5_61
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 723
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 423b590835721bfe0800000000000000
+      internalID: -1175114788173925596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level5_62
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 723
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f0d447049902ce60800000000000000
+      internalID: 7980952021035700468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level5_63
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 723
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e1072d9a69b375d0800000000000000
+      internalID: -3065903053754924572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level5_64
+      rect:
+        serializedVersion: 2
+        x: 849
+        y: 723
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8c04907c5643bef0800000000000000
+      internalID: -93653804404962161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level5_65
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 723
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c556c72a37078c150800000000000000
+      internalID: 5893083754363905372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level5_66
+      rect:
+        serializedVersion: 2
+        x: 1199
+        y: 723
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77396ba0eb2e38180800000000000000
+      internalID: -9114191915016350857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level5_67
+      rect:
+        serializedVersion: 2
+        x: 1374
+        y: 723
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e062b10b4bbee770800000000000000
+      internalID: 8642050665795969254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level5_68
+      rect:
+        serializedVersion: 2
+        x: 1549
+        y: 723
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 737bfe256b2c976c0800000000000000
+      internalID: -4145067893686552777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level5_69
+      rect:
+        serializedVersion: 2
+        x: 1724
+        y: 723
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e45e4be65e3b39050800000000000000
+      internalID: 5806182142596932942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level5_70
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 548
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c64b3ca0d9dbdde0800000000000000
+      internalID: -1307211776555006264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level5_71
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 548
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acda74115ac622250800000000000000
+      internalID: 5918412316533566922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level5_72
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 548
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0be2f6a2cd4bcbad0800000000000000
+      internalID: -2685072420121923920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level5_73
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 548
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8a982f736ef1b1a0800000000000000
+      internalID: -6795370659436782962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level5_74
+      rect:
+        serializedVersion: 2
+        x: 849
+        y: 548
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd2ee53c56d30b9c0800000000000000
+      internalID: -3913560568906194211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level5_75
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 548
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61945535098d11cc0800000000000000
+      internalID: -3741971700983183082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level5_76
+      rect:
+        serializedVersion: 2
+        x: 1199
+        y: 548
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eade9633049978c00800000000000000
+      internalID: 902858751330610606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level5_77
+      rect:
+        serializedVersion: 2
+        x: 1374
+        y: 548
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ae2e66398bfbbeb0800000000000000
+      internalID: -4702888819116069209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level5_78
+      rect:
+        serializedVersion: 2
+        x: 1549
+        y: 548
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb6757ac220711f80800000000000000
+      internalID: -8137599756953880901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level5_79
+      rect:
+        serializedVersion: 2
+        x: 1724
+        y: 548
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83e482c6ee721cbb0800000000000000
+      internalID: -4917605413141590472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level5_80
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 373
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d7fb6dac4a420550800000000000000
+      internalID: 6125540136364799952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level5_81
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 373
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c223d4ec44f1bc660800000000000000
+      internalID: 7407048392520315436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level5_82
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 373
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d53729ae1a8036d50800000000000000
+      internalID: 6729231759739876189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level5_83
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 373
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9142c22ca81bc8220800000000000000
+      internalID: 2489559903550317593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level5_84
+      rect:
+        serializedVersion: 2
+        x: 849
+        y: 373
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4dd960a0be2ae35c0800000000000000
+      internalID: -4233767469312467500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level5_85
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 373
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09e55e07575a75930800000000000000
+      internalID: 4131953106959556240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level5_86
+      rect:
+        serializedVersion: 2
+        x: 1199
+        y: 373
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57abb6cd60e9e5fb0800000000000000
+      internalID: -4657111212349474187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level5_87
+      rect:
+        serializedVersion: 2
+        x: 1374
+        y: 373
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48a350a7a064954c0800000000000000
+      internalID: -4298327358537647484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level5_88
+      rect:
+        serializedVersion: 2
+        x: 1549
+        y: 373
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f261827520dd11770800000000000000
+      internalID: 8579881767239423535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level5_89
+      rect:
+        serializedVersion: 2
+        x: 1724
+        y: 373
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e11dbffb8fbeaf50800000000000000
+      internalID: 6894658687562748393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level5_90
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 198
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1839e54a3f442a660800000000000000
+      internalID: 7395549351321179009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level5_91
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 198
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97fb79b50e0f22470800000000000000
+      internalID: 8368515904007815033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level5_92
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 198
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98f911bb258705f30800000000000000
+      internalID: 4562278719247458185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level5_93
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 198
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7dc0fc1f05c701920800000000000000
+      internalID: 2959001642278522071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level5_94
+      rect:
+        serializedVersion: 2
+        x: 849
+        y: 198
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bbb8c9b389f69650800000000000000
+      internalID: 6239448677921373112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level5_95
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 198
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f67b04d79ae1455d0800000000000000
+      internalID: -3074798932287506577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level5_96
+      rect:
+        serializedVersion: 2
+        x: 1199
+        y: 198
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 129eb43e452690540800000000000000
+      internalID: 4974615380137601313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level5_97
+      rect:
+        serializedVersion: 2
+        x: 1374
+        y: 198
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b05c1eb6e0dc942b0800000000000000
+      internalID: -5599719199835306741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level5_98
+      rect:
+        serializedVersion: 2
+        x: 1549
+        y: 198
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35d2b8d578b0d7cb0800000000000000
+      internalID: -4864719346472374957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level5_99
+      rect:
+        serializedVersion: 2
+        x: 1724
+        y: 198
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d862e2ce4d2b6e200800000000000000
+      internalID: 209051060284565133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level5_100
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 23
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25e1a25a22dc63f40800000000000000
+      internalID: 5707975126422265426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level5_101
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 23
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac548acc3b9e813a0800000000000000
+      internalID: -6694343887644244534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level5_102
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 23
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3915d41f964452b10800000000000000
+      internalID: 1956044834972979603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level5_103
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 23
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fd440d9793450690800000000000000
+      internalID: -7636623274683380236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level5_104
+      rect:
+        serializedVersion: 2
+        x: 849
+        y: 23
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 819b9d6bb32ef49b0800000000000000
+      internalID: -5093603907434071784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level5_105
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 23
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06eec9ff0864d29d0800000000000000
+      internalID: -2797502273668977056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level5_106
+      rect:
+        serializedVersion: 2
+        x: 1199
+        y: 23
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e68e5a276beebab0800000000000000
+      internalID: -4990292508754934045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level5_107
+      rect:
+        serializedVersion: 2
+        x: 1374
+        y: 23
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bc71493fa5650d40800000000000000
+      internalID: 5549953919058279603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level5_108
+      rect:
+        serializedVersion: 2
+        x: 1549
+        y: 23
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2c93731c78007d30800000000000000
+      internalID: 4427047762700508202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level5_109
+      rect:
+        serializedVersion: 2
+        x: 1724
+        y: 23
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e36a116b768fbb350800000000000000
+      internalID: 6033689250112841278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
