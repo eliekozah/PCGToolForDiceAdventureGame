@@ -8,11 +8,11 @@ namespace WaveFunctionCollapse
 {
     public class CoreSolver
     {
-        PatternManager patternManager;
         //will store output of algorithm
         OutputGrid outputGrid;
         CoreHelper coreHelper;
         PropragationHelper propagationHelper;
+        PatternManager patternManager;
 
         public CoreSolver(OutputGrid outputGrid, PatternManager patternManager)
         {
@@ -71,10 +71,10 @@ namespace WaveFunctionCollapse
 
             foreach (var patternIndexAtBase in outputGrid.GetPossibleValueForPossition(propagatePair.BaseCellPosition))
             {
+                // this is all possible neighbours
                 var possibleNeighboursForBase = patternManager.GetPossibleNeighboursForPatternInDirection(patternIndexAtBase, propagatePair.DirectionFromBase);
                 possibleIndices.UnionWith(possibleNeighboursForBase);
             }
-
             possibleValuesAtNeighbour.IntersectWith(possibleIndices);
         }
 
@@ -93,18 +93,38 @@ namespace WaveFunctionCollapse
             }
         }
 
+        // this function solves each cell
         public void CollapseCell(Vector2Int cellCoordinates)
         {
             var possibleValue = outputGrid.GetPossibleValueForPossition(cellCoordinates).ToList();
-
+            string combinedString = string.Join(",", possibleValue);
             if (possibleValue.Count == 0 || possibleValue.Count == 1)
             {
                 return;
             }
             else
             {
-                int index = coreHelper.SelectSolutionPatternFromFrequency(possibleValue);
-                outputGrid.SetPatternOnPosition(cellCoordinates.x, cellCoordinates.y, possibleValue[index]);
+                if (cellCoordinates == new Vector2Int(0, 0))
+                {
+                    string combinedString2 = string.Join(",", possibleValue);
+                    List<int> newPossibleValue = new List<int>();
+                    if (PatternFinder.legalPatterns.Intersect(possibleValue).Any())
+                    {
+                        foreach (int item in PatternFinder.legalPatterns.Intersect(possibleValue))
+                        {
+                            newPossibleValue.Add(item);
+                        }
+                    }
+                    int i;
+                    i = coreHelper.SelectSolutionPatternFromFrequency(newPossibleValue);
+                    outputGrid.SetPatternOnPosition(cellCoordinates.x, cellCoordinates.y, newPossibleValue[i]);
+                }
+                else
+                {
+                    int index;
+                    index = coreHelper.SelectSolutionPatternFromFrequency(possibleValue);
+                    outputGrid.SetPatternOnPosition(cellCoordinates.x, cellCoordinates.y, possibleValue[index]);
+                }
             }
 
             if (coreHelper.CheckCellSolutionForCollision(cellCoordinates, outputGrid) == false)
