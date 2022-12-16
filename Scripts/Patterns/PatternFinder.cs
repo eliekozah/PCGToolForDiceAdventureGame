@@ -11,22 +11,20 @@ namespace WaveFunctionCollapse
 {
     public static class PatternFinder
     {
+        //keep track of legal patterns for character spawn
+        public static List<int> legalPatterns = new List<int>();
+
         public static PatternDataResults GetPatternDataFromGrid<T>(ValuesManager<T> valuesManager, int patternSize, bool equalWeights)
         {
             //to find unique patterns, hash dict to index
             Dictionary<string, PatternData> patternHashcodeDictionary = new Dictionary<string, PatternData>();
             Dictionary<int, PatternData> patternIndexDictionary = new Dictionary<int, PatternData>();
-            Vector2 sizeOfGrid = valuesManager.GetGridSize(); //new Vector2(); /*
-            Debug.Log("Grid size is " + sizeOfGrid + " (grid means entire input size)");
+            Vector2 sizeOfGrid = valuesManager.GetGridSize();
             int patternGridSizeX = 0;
             int patternGridSizeY = 0;
-
-
             int rowMin = -1, colMin = -1, rowMax = -1, colMax = -1;
-            //counting the "first pixel on the left"
             if (patternSize < 3)
             {
-                //for case of 2: (4)+3-2 = 5; for case of 1: (4)+3-1=6; case of 4: (4)+4-1 = 7
                 patternGridSizeX = (int)sizeOfGrid.x + 3 - patternSize;
                 patternGridSizeY = (int)sizeOfGrid.y + 3 - patternSize;
                 rowMax = patternGridSizeY - 1;
@@ -45,9 +43,11 @@ namespace WaveFunctionCollapse
             int[][] patternIndicesGrid = MyCollectionExtension.CreateJaggedArray<int[][]>(patternGridSizeY, patternGridSizeX);
             int totalFrequency = 0;
 
-            //we loop with offset -1 / +1 to get patterns. At the same time we have to account for patten size.
-            //If pattern is of size 2 we will be reaching x+1 and y+1 to check all 4 values. Need visual aid.
-
+            //we loop with offset -1 / +1 to get patterns. At the same time we have to account for pattern size.
+            //If pattern is of size 2 we will be reaching x+1 and y+1 to check all 4 values. 
+            
+            // testing code
+            StringBuilder builder = null;
             int patternIndex = 0;
             for (int row = rowMin; row < rowMax; row++)
             {
@@ -56,27 +56,44 @@ namespace WaveFunctionCollapse
                     //this gets grid/pattern (list of values), each item is an array representing the pattern
                     int[][] gridValues = valuesManager.GetPatternValuesFromGridAt(col, row, patternSize);
                     string hashValue = HashCodeCalculator.CalculateHashCode(gridValues);
+                    Debug.Log("!!!!!!!!!!!!!!!index " + patternIndex + " has hashcode of " + hashValue);
 
+
+                    builder = new StringBuilder();
+                    List<int> builderList = new List<int>();
+                    for (int i = 0; i < patternSize; ++i)
+                    {
+                        for (int j = 0; j < patternSize; ++j)
+                        {
+                            builder.Append(gridValues[i][j] + " ");
+                            builderList.Add(gridValues[i][j]);
+                        }
+                    }
+
+                    // for new patterns
                     if (patternHashcodeDictionary.ContainsKey(hashValue) == false)
                     {
                         Pattern pattern = new Pattern(gridValues, hashValue, patternIndex);
-                        patternIndex++;
                         AddNewPattern(patternHashcodeDictionary, patternIndexDictionary, hashValue, pattern);
+                        if (builderList[0] == 0 && builderList[1] == 0 && builderList[3] == 0)
+                        {
+                            legalPatterns.Add(patternIndex);
+                        }
+                        patternIndex++;
                     }
                     else
                     {
-
+                        // for repeated patterns
                         if (equalWeights == false)
+                        {
                             patternIndexDictionary[patternHashcodeDictionary[hashValue].Pattern.Index].AddToFrequency();
-
-
+                            if (builderList[0] == 0 && builderList[1] == 0 && builderList[3] == 0)
+                            {
+                                legalPatterns.Add(patternHashcodeDictionary[hashValue].Pattern.Index);
+                            }
+                        }
                     }
-                    //if (patternSize > colMin || row >= rowMin && row < rowMax-1 && col >= colMin && col < colMax-1)
-                    //{
 
-                    //    totalFrequency++;
-
-                    //}
                     totalFrequency++;
                     if (patternSize < 3)
                         patternIndicesGrid[row + 1][col + 1] = patternHashcodeDictionary[hashValue].Pattern.Index;
@@ -98,12 +115,15 @@ namespace WaveFunctionCollapse
             }
         }
 
+        // method takes in pattern grid and a strategy, spits out neighbours dict
         public static Dictionary<int, PatternNeighbours> FindPossibleNeighboursForAllPatterns(IFindNeighbourStrategy patternFinder, PatternDataResults patterndataResults)
         {
 
+            //returns dict
             return patternFinder.FindNeighbours(patterndataResults);
         }
 
+        //following 2 methods used in propogation
         public static PatternNeighbours CheckNeighboursInEachDirection(int x, int y, PatternDataResults patterndataResults)
         {
             PatternNeighbours neighbours = new PatternNeighbours();
@@ -134,6 +154,19 @@ namespace WaveFunctionCollapse
         {
 
             PatternData patternData = new PatternData(pattern);
+
+
+            StringBuilder builder = new StringBuilder();
+            for (int row = 0; row < 3; row++)
+                      {
+                          for (int col = 0; col < 3; col++)
+                          {
+                                  builder.Append(patternData.Pattern.GetGridValue(col, row));
+                          }
+                       }
+            Debug.Log("NNNNNew index is " + pattern.Index + ", new pattern is " + builder.ToString());
+
+
             patternHashcodeDictionary.Add(hashValue, patternData);
             patternIndexDictionary.Add(pattern.Index, patternData);
         }
