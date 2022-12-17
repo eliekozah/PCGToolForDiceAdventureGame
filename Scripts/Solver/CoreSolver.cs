@@ -8,7 +8,6 @@ namespace WaveFunctionCollapse
 {
     public class CoreSolver
     {
-        //will store output of algorithm
         OutputGrid outputGrid;
         CoreHelper coreHelper;
         PropragationHelper propagationHelper;
@@ -71,7 +70,6 @@ namespace WaveFunctionCollapse
 
             foreach (var patternIndexAtBase in outputGrid.GetPossibleValueForPossition(propagatePair.BaseCellPosition))
             {
-                // this is all possible neighbours
                 var possibleNeighboursForBase = patternManager.GetPossibleNeighboursForPatternInDirection(patternIndexAtBase, propagatePair.DirectionFromBase);
                 possibleIndices.UnionWith(possibleNeighboursForBase);
             }
@@ -93,7 +91,6 @@ namespace WaveFunctionCollapse
             }
         }
 
-        // this function solves each cell
         public void CollapseCell(Vector2Int cellCoordinates)
         {
             var possibleValue = outputGrid.GetPossibleValueForPossition(cellCoordinates).ToList();
