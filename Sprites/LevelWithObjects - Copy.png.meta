@@ -1,0 +1,2508 @@
+fileFormatVersion: 2
+guid: 96a9daff4d7f8964ebb61e51ca045d16
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5620126938176457301
+    second: LevelWithObjects - Copy_0
+  - first:
+      213: 3156894035809692950
+    second: LevelWithObjects - Copy_1
+  - first:
+      213: -475160935684692717
+    second: LevelWithObjects - Copy_2
+  - first:
+      213: -486605492483630238
+    second: LevelWithObjects - Copy_3
+  - first:
+      213: -6615224811913490113
+    second: LevelWithObjects - Copy_4
+  - first:
+      213: 4347326097263808069
+    second: LevelWithObjects - Copy_5
+  - first:
+      213: 5023697004733635148
+    second: LevelWithObjects - Copy_6
+  - first:
+      213: -5361729772364189848
+    second: LevelWithObjects - Copy_7
+  - first:
+      213: 3327259662331174214
+    second: LevelWithObjects - Copy_8
+  - first:
+      213: 2992078338646581396
+    second: LevelWithObjects - Copy_9
+  - first:
+      213: -836018835762317285
+    second: LevelWithObjects - Copy_10
+  - first:
+      213: -6889066725487909345
+    second: LevelWithObjects - Copy_11
+  - first:
+      213: -8944937339724500871
+    second: LevelWithObjects - Copy_12
+  - first:
+      213: -690282984618079143
+    second: LevelWithObjects - Copy_13
+  - first:
+      213: -4053881686607263961
+    second: LevelWithObjects - Copy_14
+  - first:
+      213: -6339033811597764194
+    second: LevelWithObjects - Copy_15
+  - first:
+      213: 166188074120769743
+    second: LevelWithObjects - Copy_16
+  - first:
+      213: 3248860510430630046
+    second: LevelWithObjects - Copy_17
+  - first:
+      213: -8087198796101833333
+    second: LevelWithObjects - Copy_18
+  - first:
+      213: -1671614719018061473
+    second: LevelWithObjects - Copy_19
+  - first:
+      213: 3760958700845072196
+    second: LevelWithObjects - Copy_20
+  - first:
+      213: 5910149620955944879
+    second: LevelWithObjects - Copy_21
+  - first:
+      213: -5424515628781281175
+    second: LevelWithObjects - Copy_22
+  - first:
+      213: 5711105371967177691
+    second: LevelWithObjects - Copy_23
+  - first:
+      213: -2423592432287389711
+    second: LevelWithObjects - Copy_24
+  - first:
+      213: 2715800335483276379
+    second: LevelWithObjects - Copy_25
+  - first:
+      213: 5381503452144640558
+    second: LevelWithObjects - Copy_26
+  - first:
+      213: 5890964846421702197
+    second: LevelWithObjects - Copy_27
+  - first:
+      213: -4237233920583307064
+    second: LevelWithObjects - Copy_28
+  - first:
+      213: 4763107360981215713
+    second: LevelWithObjects - Copy_29
+  - first:
+      213: -3994069409225850529
+    second: LevelWithObjects - Copy_30
+  - first:
+      213: 8727449439093722547
+    second: LevelWithObjects - Copy_31
+  - first:
+      213: 8064210536081602340
+    second: LevelWithObjects - Copy_32
+  - first:
+      213: -395299294800050443
+    second: LevelWithObjects - Copy_33
+  - first:
+      213: 5170171676288329987
+    second: LevelWithObjects - Copy_34
+  - first:
+      213: 7199487687804350847
+    second: LevelWithObjects - Copy_35
+  - first:
+      213: -2175350228370089084
+    second: LevelWithObjects - Copy_36
+  - first:
+      213: -602018403505499911
+    second: LevelWithObjects - Copy_37
+  - first:
+      213: 8835798183432781561
+    second: LevelWithObjects - Copy_38
+  - first:
+      213: 7991543764202687762
+    second: LevelWithObjects - Copy_39
+  - first:
+      213: -5281135060606749967
+    second: LevelWithObjects - Copy_40
+  - first:
+      213: -5461626656941204059
+    second: LevelWithObjects - Copy_41
+  - first:
+      213: 1391952595675627156
+    second: LevelWithObjects - Copy_42
+  - first:
+      213: -166528352943518480
+    second: LevelWithObjects - Copy_43
+  - first:
+      213: -6368820390943772471
+    second: LevelWithObjects - Copy_44
+  - first:
+      213: -6552689566553231029
+    second: LevelWithObjects - Copy_45
+  - first:
+      213: -3379138368694042995
+    second: LevelWithObjects - Copy_46
+  - first:
+      213: -7161426514836190706
+    second: LevelWithObjects - Copy_47
+  - first:
+      213: -5972899123184883979
+    second: LevelWithObjects - Copy_48
+  - first:
+      213: 6364427771290416948
+    second: LevelWithObjects - Copy_49
+  - first:
+      213: -6618646548722400079
+    second: LevelWithObjects - Copy_50
+  - first:
+      213: -8481259151308163805
+    second: LevelWithObjects - Copy_51
+  - first:
+      213: 6246578608154842467
+    second: LevelWithObjects - Copy_52
+  - first:
+      213: 4513987388859414434
+    second: LevelWithObjects - Copy_53
+  - first:
+      213: 4066673811639970422
+    second: LevelWithObjects - Copy_54
+  - first:
+      213: -8988811058226706680
+    second: LevelWithObjects - Copy_55
+  - first:
+      213: 5136863814508962026
+    second: LevelWithObjects - Copy_56
+  - first:
+      213: -1211339467064563082
+    second: LevelWithObjects - Copy_57
+  - first:
+      213: -4690623843431136691
+    second: LevelWithObjects - Copy_58
+  - first:
+      213: 190516757371462963
+    second: LevelWithObjects - Copy_59
+  - first:
+      213: -698410503609432064
+    second: LevelWithObjects - Copy_60
+  - first:
+      213: -2854775816211421974
+    second: LevelWithObjects - Copy_61
+  - first:
+      213: 6808261232632213559
+    second: LevelWithObjects - Copy_62
+  - first:
+      213: 7056202167284579049
+    second: LevelWithObjects - Copy_63
+  - first:
+      213: 6950825180904937414
+    second: LevelWithObjects - Copy_64
+  - first:
+      213: -5961869614939194055
+    second: LevelWithObjects - Copy_65
+  - first:
+      213: 7050509820975964018
+    second: LevelWithObjects - Copy_66
+  - first:
+      213: -1768985480604327282
+    second: LevelWithObjects - Copy_67
+  - first:
+      213: 654971692317668694
+    second: LevelWithObjects - Copy_68
+  - first:
+      213: -4757716120554895013
+    second: LevelWithObjects - Copy_69
+  - first:
+      213: 785751492933466540
+    second: LevelWithObjects - Copy_70
+  - first:
+      213: -5182066912718302890
+    second: LevelWithObjects - Copy_71
+  - first:
+      213: 7604849673754666644
+    second: LevelWithObjects - Copy_72
+  - first:
+      213: 360701859011284168
+    second: LevelWithObjects - Copy_73
+  - first:
+      213: -5554613103524523733
+    second: LevelWithObjects - Copy_74
+  - first:
+      213: -4645350781072856157
+    second: LevelWithObjects - Copy_75
+  - first:
+      213: 7214720061498455939
+    second: LevelWithObjects - Copy_76
+  - first:
+      213: 5105695600098717371
+    second: LevelWithObjects - Copy_77
+  - first:
+      213: 4144794844614730345
+    second: LevelWithObjects - Copy_78
+  - first:
+      213: 9221962971118814117
+    second: LevelWithObjects - Copy_79
+  - first:
+      213: 2038498742273863095
+    second: LevelWithObjects - Copy_80
+  - first:
+      213: -5675850943048353740
+    second: LevelWithObjects - Copy_81
+  - first:
+      213: 5494554088785188876
+    second: LevelWithObjects - Copy_82
+  - first:
+      213: -319087682120655118
+    second: LevelWithObjects - Copy_83
+  - first:
+      213: -7496732340033911499
+    second: LevelWithObjects - Copy_84
+  - first:
+      213: 8820224620279573865
+    second: LevelWithObjects - Copy_85
+  - first:
+      213: 7735708862643530933
+    second: LevelWithObjects - Copy_86
+  - first:
+      213: -2693464239232641580
+    second: LevelWithObjects - Copy_87
+  - first:
+      213: 3964396205624091850
+    second: LevelWithObjects - Copy_88
+  - first:
+      213: 325996402347884234
+    second: LevelWithObjects - Copy_89
+  - first:
+      213: 5004198745317657733
+    second: LevelWithObjects - Copy_90
+  - first:
+      213: -2706464097704883126
+    second: LevelWithObjects - Copy_91
+  - first:
+      213: -1924603699916787686
+    second: LevelWithObjects - Copy_92
+  - first:
+      213: -7388693784297463808
+    second: LevelWithObjects - Copy_93
+  - first:
+      213: -2570813564841832177
+    second: LevelWithObjects - Copy_94
+  - first:
+      213: -1416861731927223444
+    second: LevelWithObjects - Copy_95
+  - first:
+      213: -260334833502354714
+    second: LevelWithObjects - Copy_96
+  - first:
+      213: -3412732890102711333
+    second: LevelWithObjects - Copy_97
+  - first:
+      213: -879316489711943986
+    second: LevelWithObjects - Copy_98
+  - first:
+      213: -7547039160439138586
+    second: LevelWithObjects - Copy_99
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 176
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: LevelWithObjects - Copy_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1584
+        width: 176
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55a8c9e6ca3befd40800000000000000
+      internalID: 5620126938176457301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelWithObjects - Copy_1
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 1584
+        width: 176
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61d6cfd466a8fcb20800000000000000
+      internalID: 3156894035809692950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelWithObjects - Copy_2
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 1584
+        width: 176
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3152f5185a3e769f0800000000000000
+      internalID: -475160935684692717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelWithObjects - Copy_3
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 1584
+        width: 176
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26b52caf1ea3f39f0800000000000000
+      internalID: -486605492483630238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelWithObjects - Copy_4
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 1584
+        width: 176
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f31db8025100234a0800000000000000
+      internalID: -6615224811913490113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelWithObjects - Copy_5
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 1584
+        width: 176
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54ec1366d0ec45c30800000000000000
+      internalID: 4347326097263808069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelWithObjects - Copy_6
+      rect:
+        serializedVersion: 2
+        x: 1056
+        y: 1584
+        width: 176
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4a97522fc1c7b540800000000000000
+      internalID: 5023697004733635148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelWithObjects - Copy_7
+      rect:
+        serializedVersion: 2
+        x: 1232
+        y: 1584
+        width: 176
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86fa8900e2f4795b0800000000000000
+      internalID: -5361729772364189848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelWithObjects - Copy_8
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 1584
+        width: 176
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64d5cb8c80dcc2e20800000000000000
+      internalID: 3327259662331174214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelWithObjects - Copy_9
+      rect:
+        serializedVersion: 2
+        x: 1584
+        y: 1584
+        width: 176
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 490ab23756ff58920800000000000000
+      internalID: 2992078338646581396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelWithObjects - Copy_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1408
+        width: 176
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b18f9dc5c4dd564f0800000000000000
+      internalID: -836018835762317285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelWithObjects - Copy_11
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 1408
+        width: 176
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f166451205e1560a0800000000000000
+      internalID: -6889066725487909345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelWithObjects - Copy_12
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 1408
+        width: 176
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 970f79fb1e23dd380800000000000000
+      internalID: -8944937339724500871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelWithObjects - Copy_13
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 1408
+        width: 176
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95cc753684f9b66f0800000000000000
+      internalID: -690282984618079143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelWithObjects - Copy_14
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 1408
+        width: 176
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 727005c9518bdb7c0800000000000000
+      internalID: -4053881686607263961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelWithObjects - Copy_15
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 1408
+        width: 176
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e995680855a3708a0800000000000000
+      internalID: -6339033811597764194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelWithObjects - Copy_16
+      rect:
+        serializedVersion: 2
+        x: 1056
+        y: 1408
+        width: 176
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc0ffd34c2b6e4200800000000000000
+      internalID: 166188074120769743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelWithObjects - Copy_17
+      rect:
+        serializedVersion: 2
+        x: 1232
+        y: 1408
+        width: 176
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e901309cb65461d20800000000000000
+      internalID: 3248860510430630046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelWithObjects - Copy_18
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 1408
+        width: 176
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8d2262fa8f74cf80800000000000000
+      internalID: -8087198796101833333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelWithObjects - Copy_19
+      rect:
+        serializedVersion: 2
+        x: 1584
+        y: 1408
+        width: 176
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f513d97054b3dc8e0800000000000000
+      internalID: -1671614719018061473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelWithObjects - Copy_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1232
+        width: 176
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44ff8c2130c913430800000000000000
+      internalID: 3760958700845072196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelWithObjects - Copy_21
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 1232
+        width: 176
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa71d7654c1150250800000000000000
+      internalID: 5910149620955944879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelWithObjects - Copy_22
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 1232
+        width: 176
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 960efe3a6cf38b4b0800000000000000
+      internalID: -5424515628781281175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelWithObjects - Copy_23
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 1232
+        width: 176
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd3cdeab31ce14f40800000000000000
+      internalID: 5711105371967177691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelWithObjects - Copy_24
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 1232
+        width: 176
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f76f29068bad5ed0800000000000000
+      internalID: -2423592432287389711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelWithObjects - Copy_25
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 1232
+        width: 176
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5c0e55240670b520800000000000000
+      internalID: 2715800335483276379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelWithObjects - Copy_26
+      rect:
+        serializedVersion: 2
+        x: 1056
+        y: 1232
+        width: 176
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e22ae9690e0feaa40800000000000000
+      internalID: 5381503452144640558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelWithObjects - Copy_27
+      rect:
+        serializedVersion: 2
+        x: 1232
+        y: 1232
+        width: 176
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 536774fe059e0c150800000000000000
+      internalID: 5890964846421702197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelWithObjects - Copy_28
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 1232
+        width: 176
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c07565f2325235c0800000000000000
+      internalID: -4237233920583307064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelWithObjects - Copy_29
+      rect:
+        serializedVersion: 2
+        x: 1584
+        y: 1232
+        width: 176
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e96556a8e4f91240800000000000000
+      internalID: 4763107360981215713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelWithObjects - Copy_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1056
+        width: 176
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f51c6d6a8073298c0800000000000000
+      internalID: -3994069409225850529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelWithObjects - Copy_31
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 1056
+        width: 176
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bd0d5c56012e1970800000000000000
+      internalID: 8727449439093722547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelWithObjects - Copy_32
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 1056
+        width: 176
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4273b1da1c4d9ef60800000000000000
+      internalID: 8064210536081602340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelWithObjects - Copy_33
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 1056
+        width: 176
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f60b71c26d938af0800000000000000
+      internalID: -395299294800050443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelWithObjects - Copy_34
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 1056
+        width: 176
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 309a3f03fb320c740800000000000000
+      internalID: 5170171676288329987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelWithObjects - Copy_35
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 1056
+        width: 176
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f71706458e7b9e360800000000000000
+      internalID: 7199487687804350847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelWithObjects - Copy_36
+      rect:
+        serializedVersion: 2
+        x: 1056
+        y: 1056
+        width: 176
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48b9fe72e7a9fc1e0800000000000000
+      internalID: -2175350228370089084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelWithObjects - Copy_37
+      rect:
+        serializedVersion: 2
+        x: 1232
+        y: 1056
+        width: 176
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f09ece937335a7f0800000000000000
+      internalID: -602018403505499911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelWithObjects - Copy_38
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 1056
+        width: 176
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fe7d8e32af0f9a70800000000000000
+      internalID: 8835798183432781561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelWithObjects - Copy_39
+      rect:
+        serializedVersion: 2
+        x: 1584
+        y: 1056
+        width: 176
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21d0a4866baa7ee60800000000000000
+      internalID: 7991543764202687762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelWithObjects - Copy_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 880
+        width: 176
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f27cad94a3a5b6b0800000000000000
+      internalID: -5281135060606749967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelWithObjects - Copy_41
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 880
+        width: 176
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ad17311e776434b0800000000000000
+      internalID: -5461626656941204059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelWithObjects - Copy_42
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 880
+        width: 176
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49ebd69c285315310800000000000000
+      internalID: 1391952595675627156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelWithObjects - Copy_43
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 880
+        width: 176
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fc45c5685f50bdf0800000000000000
+      internalID: -166528352943518480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelWithObjects - Copy_44
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 880
+        width: 176
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c0388f09976d97a0800000000000000
+      internalID: -6368820390943772471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelWithObjects - Copy_45
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 880
+        width: 176
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b41bf2e8e8b2015a0800000000000000
+      internalID: -6552689566553231029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelWithObjects - Copy_46
+      rect:
+        serializedVersion: 2
+        x: 1056
+        y: 880
+        width: 176
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8e391f9e83ea11d0800000000000000
+      internalID: -3379138368694042995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelWithObjects - Copy_47
+      rect:
+        serializedVersion: 2
+        x: 1232
+        y: 880
+        width: 176
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0a002217808d9c90800000000000000
+      internalID: -7161426514836190706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelWithObjects - Copy_48
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 880
+        width: 176
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f6a25ba4effb1da0800000000000000
+      internalID: -5972899123184883979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelWithObjects - Copy_49
+      rect:
+        serializedVersion: 2
+        x: 1584
+        y: 880
+        width: 176
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 437756a765df25850800000000000000
+      internalID: 6364427771290416948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelWithObjects - Copy_50
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 704
+        width: 176
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b44981f708d524a0800000000000000
+      internalID: -6618646548722400079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelWithObjects - Copy_51
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 704
+        width: 176
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 325fe3eccb38c4a80800000000000000
+      internalID: -8481259151308163805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelWithObjects - Copy_52
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 704
+        width: 176
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3659f98f52e40b650800000000000000
+      internalID: 6246578608154842467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelWithObjects - Copy_53
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 704
+        width: 176
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a7fe813d97e4ae30800000000000000
+      internalID: 4513987388859414434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelWithObjects - Copy_54
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 704
+        width: 176
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67a2f28194abf6830800000000000000
+      internalID: 4066673811639970422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelWithObjects - Copy_55
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 704
+        width: 176
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8074b41a7f3514380800000000000000
+      internalID: -8988811058226706680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelWithObjects - Copy_56
+      rect:
+        serializedVersion: 2
+        x: 1056
+        y: 704
+        width: 176
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae06d5b4c6ec94740800000000000000
+      internalID: 5136863814508962026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelWithObjects - Copy_57
+      rect:
+        serializedVersion: 2
+        x: 1232
+        y: 704
+        width: 176
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67aa4333c25703fe0800000000000000
+      internalID: -1211339467064563082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelWithObjects - Copy_58
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 704
+        width: 176
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d424f45677e87eeb0800000000000000
+      internalID: -4690623843431136691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelWithObjects - Copy_59
+      rect:
+        serializedVersion: 2
+        x: 1584
+        y: 704
+        width: 176
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 335a2ee3bf9d4a200800000000000000
+      internalID: 190516757371462963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelWithObjects - Copy_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 528
+        width: 176
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00845f8e85fbe46f0800000000000000
+      internalID: -698410503609432064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelWithObjects - Copy_61
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 528
+        width: 176
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae4a759358cc168d0800000000000000
+      internalID: -2854775816211421974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelWithObjects - Copy_62
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 528
+        width: 176
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7303b15f48dcb7e50800000000000000
+      internalID: 6808261232632213559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelWithObjects - Copy_63
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 528
+        width: 176
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9eab65c5c7aace160800000000000000
+      internalID: 7056202167284579049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelWithObjects - Copy_64
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 528
+        width: 176
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c7ddabccaa467060800000000000000
+      internalID: 6950825180904937414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelWithObjects - Copy_65
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 528
+        width: 176
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93dba5c2c2f234da0800000000000000
+      internalID: -5961869614939194055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelWithObjects - Copy_66
+      rect:
+        serializedVersion: 2
+        x: 1056
+        y: 528
+        width: 176
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27fdca4b35178d160800000000000000
+      internalID: 7050509820975964018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelWithObjects - Copy_67
+      rect:
+        serializedVersion: 2
+        x: 1232
+        y: 528
+        width: 176
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8261cfe31d4377e0800000000000000
+      internalID: -1768985480604327282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelWithObjects - Copy_68
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 528
+        width: 176
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 655f782b84de61900800000000000000
+      internalID: 654971692317668694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelWithObjects - Copy_69
+      rect:
+        serializedVersion: 2
+        x: 1584
+        y: 528
+        width: 176
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b590d24556239fdb0800000000000000
+      internalID: -4757716120554895013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelWithObjects - Copy_70
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 352
+        width: 176
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca9380ad1dc87ea00800000000000000
+      internalID: 785751492933466540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelWithObjects - Copy_71
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 352
+        width: 176
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 651de1149999518b0800000000000000
+      internalID: -5182066912718302890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelWithObjects - Copy_72
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 352
+        width: 176
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 496646e6c7ad98960800000000000000
+      internalID: 7604849673754666644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelWithObjects - Copy_73
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 352
+        width: 176
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ccc0300e68710500800000000000000
+      internalID: 360701859011284168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelWithObjects - Copy_74
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 352
+        width: 176
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b21d0bbdfcc0ae2b0800000000000000
+      internalID: -5554613103524523733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelWithObjects - Copy_75
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 352
+        width: 176
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3aba115a316688fb0800000000000000
+      internalID: -4645350781072856157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelWithObjects - Copy_76
+      rect:
+        serializedVersion: 2
+        x: 1056
+        y: 352
+        width: 176
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 387ff73bba5df1460800000000000000
+      internalID: 7214720061498455939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelWithObjects - Copy_77
+      rect:
+        serializedVersion: 2
+        x: 1232
+        y: 352
+        width: 176
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbea82fd8131bd640800000000000000
+      internalID: 5105695600098717371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelWithObjects - Copy_78
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 352
+        width: 176
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 962a12c73f4458930800000000000000
+      internalID: 4144794844614730345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelWithObjects - Copy_79
+      rect:
+        serializedVersion: 2
+        x: 1584
+        y: 352
+        width: 176
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a3c751567efaff70800000000000000
+      internalID: 9221962971118814117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelWithObjects - Copy_80
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 176
+        width: 176
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bd60504ec33a4c10800000000000000
+      internalID: 2038498742273863095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelWithObjects - Copy_81
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 176
+        width: 176
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4387985a3a35b31b0800000000000000
+      internalID: -5675850943048353740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelWithObjects - Copy_82
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 176
+        width: 176
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c08163515d3904c40800000000000000
+      internalID: 5494554088785188876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelWithObjects - Copy_83
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 176
+        width: 176
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fedef6917f529bf0800000000000000
+      internalID: -319087682120655118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelWithObjects - Copy_84
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 176
+        width: 176
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5358818f7a146f790800000000000000
+      internalID: -7496732340033911499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelWithObjects - Copy_85
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 176
+        width: 176
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96d2be28f8bb76a70800000000000000
+      internalID: 8820224620279573865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelWithObjects - Copy_86
+      rect:
+        serializedVersion: 2
+        x: 1056
+        y: 176
+        width: 176
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bc65bb9932ca5b60800000000000000
+      internalID: 7735708862643530933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelWithObjects - Copy_87
+      rect:
+        serializedVersion: 2
+        x: 1232
+        y: 176
+        width: 176
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d512558b84ee9ad0800000000000000
+      internalID: -2693464239232641580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelWithObjects - Copy_88
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 176
+        width: 176
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac46121485d540730800000000000000
+      internalID: 3964396205624091850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelWithObjects - Copy_89
+      rect:
+        serializedVersion: 2
+        x: 1584
+        y: 176
+        width: 176
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ace3000300c268400800000000000000
+      internalID: 325996402347884234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelWithObjects - Copy_90
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 176
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58c4d18de3c727540800000000000000
+      internalID: 5004198745317657733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelWithObjects - Copy_91
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 0
+        width: 176
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4cc3fa1e35b07ad0800000000000000
+      internalID: -2706464097704883126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelWithObjects - Copy_92
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 0
+        width: 176
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a10be05c12f6a45e0800000000000000
+      internalID: -1924603699916787686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelWithObjects - Copy_93
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 0
+        width: 176
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00020d07626167990800000000000000
+      internalID: -7388693784297463808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelWithObjects - Copy_94
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 0
+        width: 176
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f01d8dbfea2a25cd0800000000000000
+      internalID: -2570813564841832177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelWithObjects - Copy_95
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 0
+        width: 176
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6312acf2cb465ce0800000000000000
+      internalID: -1416861731927223444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelWithObjects - Copy_96
+      rect:
+        serializedVersion: 2
+        x: 1056
+        y: 0
+        width: 176
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e28e6629da136cf0800000000000000
+      internalID: -260334833502354714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelWithObjects - Copy_97
+      rect:
+        serializedVersion: 2
+        x: 1232
+        y: 0
+        width: 176
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdbb224948983a0d0800000000000000
+      internalID: -3412732890102711333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelWithObjects - Copy_98
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 0
+        width: 176
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ece7399bf4a0cc3f0800000000000000
+      internalID: -879316489711943986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelWithObjects - Copy_99
+      rect:
+        serializedVersion: 2
+        x: 1584
+        y: 0
+        width: 176
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e610189ed7834790800000000000000
+      internalID: -7547039160439138586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
