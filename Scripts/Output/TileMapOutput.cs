@@ -39,6 +39,10 @@ namespace WaveFunctionCollapse
             }
 
             PrintGridToConsol(valueGrid, width, height);
+            
+            //When the algorithm is done generating the value grid,
+            //it is time to generate a JSON file that is used as an input to generate a game level
+            //in the "Dice Adventure" game
             SaveGridToJSON(valueGrid, width, height);
         }
 
@@ -59,8 +63,11 @@ namespace WaveFunctionCollapse
         }
 
 
+        //JSON file and classes to generate the JSON output
         public TextAsset levelJSON;
 
+        //every cell contains 
+        //a code to indicate what object to be spawn
         [System.Serializable]
         public class JsonTile
         {
@@ -80,7 +87,9 @@ namespace WaveFunctionCollapse
         void SaveGridToJSON(int[][] valueGrid, int width, int height)
         {
 
-           
+            //the JSON output will contain the only the tiles 
+            //that are not empty. A tile is empty if it is passable
+            //and does not contain any object to be spawn
             List<JsonTile> tileList = new List<JsonTile>();
             for (int row = 0; row < height; row++)
             {
@@ -96,38 +105,47 @@ namespace WaveFunctionCollapse
                         switch(valueGrid[row][col])
                         {
                             case 1:
+                            //TRAP
                                 s = "T";
                                 break;
 
                             case 2:
+                            //Unpassable Tile
                                 s = "U";
                                 break;
 
                             case 3:
+                            //Monster
                                 s = "M";
                                 break;
 
                             case 4:
+                            //Giant Altar
                                 s = "GA";
                                 break;
 
                             case 5:
+                            //Goal
                                 s = "G";
                                 break;
 
                             case 6:
+                            //Rock
                                 s = "R";
                                 break;
 
                             case 7:
+                            //Dwarf Altar
                                 s = "DA";
                                 break;
 
                             case 8:
+                            //Human Altar
                                 s = "HA";
                                 break;
                         }
-
+                           
+                        //filling the cell info
                         JsonTile t = new JsonTile();
                         t.x = row;
                         t.y = col;
@@ -138,8 +156,11 @@ namespace WaveFunctionCollapse
                 //Debug.Log(s);
                 Debug.Log("___\n");
             }
+            
             tileArray.tile = tileList.ToArray();
             string strOutput = JsonUtility.ToJson(tileArray);
+            //output the generated grid to the JSSON file "myLevel". This file 
+            //will be used to generate the 3D game level
             File.WriteAllText(Application.dataPath + "/Resources/myLevel.JSON", strOutput);
         }
     }
